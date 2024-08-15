@@ -328,7 +328,7 @@ h6 {
   flex-direction: column;
   gap: 30px
 }
-.posts--lemur__rumor {
+.posts--lemur__rumor a {
   display: flex;
   gap: 20px
 }
@@ -363,7 +363,7 @@ h6 {
   }
 }
 @media (max-width:700px) {
-  .posts--lemur__rumor {
+  .posts--lemur__rumor a {
     flex-direction: column
   }
 }
